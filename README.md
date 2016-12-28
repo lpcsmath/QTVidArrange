@@ -43,3 +43,10 @@ DURATION  WIDTH  HEIGHT  FRAMESPSEC  CREADATE             FILE
     0:20   3840    2160       24.00  2016-09-14 09:04:04  XT210133.MOV
     0:18   3840    2160       24.00  2016-09-16 11:42:53  XT210138.MOV
 ```
+
+To create links, move or copy, subfolders are created. A link for file XT210107.MOV
+would be created in a subfolder named:
+
+```
+3840x2160@24
+```
