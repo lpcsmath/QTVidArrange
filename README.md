@@ -17,19 +17,19 @@ java -jar qt-vid-arrange-<version>.jar show [dir]
 Create subfolders and create symbolic links in them:
 
 ```
-java -jar qt-vid-arrange-<version>.jar link [source_dir [target_dir]
+java -jar qt-vid-arrange-<version>.jar link [source_dir [target_dir]]
 ```
 
 Create subfolders and move the files into them:
 
 ```
-java -jar qt-vid-arrange-<version>.jar move [source_dir [target_dir]
+java -jar qt-vid-arrange-<version>.jar move [source_dir [target_dir]]
 ```
 
 Create subfolders and copy the files into them:
 
 ```
-java -jar qt-vid-arrange-<version>.jar copy [source_dir [target_dir]
+java -jar qt-vid-arrange-<version>.jar copy [source_dir [target_dir]]
 ```
 
 #### Example
