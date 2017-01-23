@@ -95,8 +95,6 @@ public class QTVidArrange {
                     break;
             }
             ds.forEach(action);
-        } catch (Exception e) {
-            throw e;
         }
     }
 
